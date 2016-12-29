@@ -1,0 +1,35 @@
+.panel-title{
+  text-align: center;
+  font-size: 28px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+.login{
+  margin: 50px auto;
+  width: 500px;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+fieldset{
+  border:1px solid #c7c4c4;
+  padding: 50px 50px 50px 40px;
+  border-radius: 10px;
+}
+legend{
+  color: #ffffff !important;
+  text-align: center;
+  background-color: #009688;
+  border-radius: 5px;
+  border: none;
+}
+.dl{
+  text-align: center;
+}
+.errorM{
+  color: red;
+  position: relative;
+  top: 5px;
+  margin: 0;
+}
